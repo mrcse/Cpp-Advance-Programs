@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553072925 source:c:\users\jamshid ali\desktop\extra c++\square root\main.cpp
+	<iostream>
+
+1556444695 source:c:\users\jamshid ali\desktop\2nd semester\computer programming\extra c++\loops and function\square root\main.cpp
+	<iostream>
+	<math.h>
+
